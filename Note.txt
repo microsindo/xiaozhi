@@ -1,0 +1,4 @@
+https://xiaozhi.me/login
+
+ip wifi conneting board after flash 192.168.4.1 
+
